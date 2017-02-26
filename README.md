@@ -1,6 +1,7 @@
 # ElkDriver
 
-**TODO: Add description**
+`mix deps.get`
+`mix test`
 
 ## Installation
 
